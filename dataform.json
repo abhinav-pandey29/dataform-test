@@ -1,0 +1,8 @@
+{
+  "defaultSchema": "dataform",
+  "assertionSchema": "dataform_assertions",
+  "warehouse": "bigquery",
+  "defaultDatabase": "gmail-scraper-409216",
+  "defaultLocation": "australia-southeast1"
+}
+    
